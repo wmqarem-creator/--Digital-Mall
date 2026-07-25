@@ -1,0 +1,10 @@
+{
+  "name": "المول الرقمي - لوحة الإدارة",
+  "description": "المول الرقمي (Digital Mall Admin) - منصة تجارية متعددة البائعين (com.digitalmall.admin) ومول رقمي متكامل لإدارة المبيعات والحوالات والعمولات وسجل العمليات.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
